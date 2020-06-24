@@ -9,4 +9,4 @@ It was my 3rd semister web design project
 ## Screenshots
 
 <img src="screenshots/Screenshot (148).png" width="400"> &nbsp;&nbsp; <img src="screenshots/Screenshot (149).png" width="400">
-<img src="screenshots/Screenshot (150).png" width="270">
+<img src="screenshots/Screenshot (150).png" width="400">
